@@ -4,7 +4,7 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  basePath: '/gh-pages-test',
+  basePath: 'https://github.com/codenamejason/jaxcoder-xy',
 }
 
 module.exports = nextConfig
